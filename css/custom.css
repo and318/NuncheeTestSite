@@ -232,6 +232,13 @@ fieldset[disabled] .btn-postula.active {
 }
 
 
+.colHide {
+	padding-bottom: 50px;
+}
+.paddTop {
+	padding-top: 20px;
+}
 
-
-
+.col-xs-12.col-sm-6.col-md-6.col-lg-12.colHide.text-center > h3 {
+	padding: 20px 0;
+}
