@@ -24,15 +24,18 @@ h1, h2,h3,h4, h5, h6 {
 #first {
 	background: /*#53c7cc;*/white;
 	min-height: 600px;
-	padding-top: 60px;
+	padding-top: 130px;
 	overflow: hidden;
+}
+#first h1 {
+	font-size: 45px;
+	color: #53C7CC;
 }
 #first h3 {
 
-	color: #53C7CC;
+	color: #E3806B;
 	font-weight: 100;
-	font-size: 45px;
-	margin-top: 25px;
+	font-size: 35px;
 }
 
 #second {
@@ -241,4 +244,10 @@ fieldset[disabled] .btn-postula.active {
 
 .col-xs-12.col-sm-6.col-md-6.col-lg-12.colHide.text-center > h3 {
 	padding: 20px 0;
+}
+.navbar-brand {
+	padding-top: 0;
+}
+.slideP {
+	padding-bottom: 30px;
 }
