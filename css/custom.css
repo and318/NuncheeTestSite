@@ -65,10 +65,10 @@ h1, h2,h3,h4, h5, h6 {
 }
 #fifth {
 	padding: 40px 0;
-	
+	background-color: #eeeeee;
 }
 #sixth {
-	background: #f0f0f0;
+	/*background: #f0f0f0;*/
 	padding: 40px 0;
 }
 #seven {
