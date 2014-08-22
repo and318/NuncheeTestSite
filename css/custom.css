@@ -24,7 +24,7 @@ h1, h2,h3,h4, h5, h6 {
 #first {
 	background: /*#53c7cc;*/white;
 	min-height: 600px;
-	padding-top: 130px;
+	padding-top: 50px;
 	overflow: hidden;
 }
 #first h1 {
@@ -251,4 +251,30 @@ fieldset[disabled] .btn-postula.active {
 }
 .slideP {
 	padding-bottom: 30px;
+}
+.red {
+	min-height: 600px;
+	padding-top: 50px;
+	background: url('../img/aa.jpg') center center / cover no-repeat scroll;
+	-webkit-background-size: cover;
+	 -moz-background-size: cover;
+	 -o-background-size: cover;
+
+	
+}
+.red2 {
+	min-height: 600px;
+	padding-top: 50px;
+	background: url('../img/ipadf.jpg') center center / cover no-repeat scroll;
+	-webkit-background-size: cover;
+	 -moz-background-size: cover;
+	 -o-background-size: cover;
+
+	
+}
+.fondo {
+	background: white;
+	padding: 5px;
+	line-height: 70px;
+	font-size: 40px;
 }
