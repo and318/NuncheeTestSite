@@ -252,14 +252,14 @@ fieldset[disabled] .btn-postula.active {
 .slideP {
 	padding-bottom: 30px;
 }
-.red {
+.firstSlide{
 	min-height: 600px;
 	padding-top: 50px;
-	background: url('../img/aa.jpg') center center / cover no-repeat scroll;
+	background-color: #EEEEF0;
+	background: url('../img/family.jpg') center center / cover no-repeat scroll;
 	-webkit-background-size: cover;
 	 -moz-background-size: cover;
 	 -o-background-size: cover;
-
 	
 }
 .red2 {
